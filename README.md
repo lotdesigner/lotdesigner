@@ -72,8 +72,8 @@ Take your survey dimensions and trace them out to finally understand what your l
 Single HTML file — no build step, no server, no dependencies.
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/lot-layout-designer.git
-cd lot-layout-designer
+git clone https://github.com/lotdesigner/lotdesigner.git
+cd lotdesigner
 open index.html
 ```
 
