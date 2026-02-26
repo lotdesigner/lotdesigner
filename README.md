@@ -1,7 +1,7 @@
 # Lot Layout Designer
 ### Free Browser-Based Tool for Property Sketches, Permit Applications & Site Plans
 
-**[▶ Open the App](https://YOUR-USERNAME.github.io/lot-layout-designer/)** — no installation, no account, no cost.
+**[▶ Open the App](https://lotdesigner.github.io/lotdesigner/)** — no installation, no account, no cost.
 
 ---
 
